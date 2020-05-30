@@ -192,8 +192,37 @@ Cipher 5: BCD to ASCII
 
  - 1) Download the file "assets/audio/secretaudio.wav"
     
-    *** Answer *** "Super Secret Message"
+    *** Answer *** Super Secret Message
 
 ## Task 4
 
  ### Steganography 
+
+ สามารถตรวจสอบไฟล์รูปภาพได้จาก steghide หรือ [online tool](https://futureboy.us/stegano/decinput.html)
+
+ - 1) Decode the image to reveal the answer.
+   
+    *** Answer *** SpaghettiSteg
+
+## Task 5
+
+ ### Security through obscurity 
+
+ WHAT IS INSIDE THE FILE?
+
+ ข้อนี้ต้องทำการ download file ลงมาก่อนซึ่งจะมีนามสกุลเป็น jpg จากนั้นให้ใช้ notepad เปิดไฟล์ขึ้นมาอ่าน
+ ซึ่งจะเป็นข้อความเต็มไปหมด ให้เลื่อนหาข้อความที่สามารถอ่านได้จริงๆ โดยโจทย์ให้หาข้อความที่เป็นชื่อไฟล์และนามสกุล
+ และอีกข้อ ให้หาอีกข้อความที่ซ่อนอยู่
+
+ ![alt text](/assets/images/meme.jpg "hidden")
+
+ - 1) Download and get 'inside' the file. What is the first filename & extension?
+   
+    *** Answer *** hackerchat.png
+
+ - 2) Get inside the archive and inspect the file carefully. Find the hidden text.
+
+    *** Answer *** AHH_YOU_FOUND_ME! 
+
+
+
