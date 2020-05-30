@@ -83,3 +83,63 @@ Cipher 5: BCD to ASCII
 **Answer**: Let’s make this a bit trickier...
 [Link Convert](https://www.branah.com/ascii-converter)
 
+
+## Task 2
+
+ ### Hashed
+ Find tool for Hash in https://md5hashing.net/
+
+- 1) MD2
+*** Hash *** 39d4a2ba07e44421c9bedd54dc4e1182
+*** Answer *** MDwhat?
+
+---
+
+- 2) MD4
+*** Hash *** e0418e7c6c2f630c71b2acabbcf8a2fb
+*** Answer *** digest the message algorithm
+
+---
+
+- 3) MD5
+*** Hash *** efbd448a935421a54dda43da43a701e1
+*** Answer *** 128-bit of delicious hash values
+
+---
+
+- 4) NTLM
+*** Hash *** 11FE61CE0639AC2A1E815D62D7DEEC53
+*** Answer *** Microsoft has encryption?
+
+---
+
+- 5) SHA512
+*** Hash *** a361f05487b879f25cc4d7d7fae3c7442e7849ed15c94010b389faafaf8763f0dd022e52364027283d55dcb10974b09e7937f901584c092da65a14d1aa8dc4d8
+*** Answer *** 1024 bit blocks!
+
+---
+
+- 6) SHA256
+*** Hash *** d48a2f790f7294a4ecbac10b99a1a4271cdc67fff7246a314297f2bca2aaa71f
+
+---
+
+- 7) SHA1
+*** Hash *** a34e50c78f67d3ec5d0479cde1406c6f82ff6cd0
+*** Answer *** The OG
+
+
+## Task 3
+
+ ### Spectrograms
+
+ A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time. When applied to an audio signal, spectrograms are sometimes called sonographs, voiceprints, or voicegrams. When the data is represented in a 3D plot they may be called waterfalls. 
+ 
+ and use audacity to open file and view in spectrogram mode
+
+ - 1) Download the file "assets/audio/secretaudio.wav"
+    *** Answer *** "Super Secret Message"
+
+## Task 4
+
+ ### Steganography 
