@@ -55,9 +55,13 @@ Url This Room: https://tryhackme.com/room/c4ptur3th3fl4g
 ---
 
 - 6) ROT 13
+
 Rot 13 or known as rotate 13 is a form of Caesar cipher which rotate in 13 times.
+
 **Cipher**: Ebgngr zr 13 cynprf!
+
 **Answer**: Rotate me 13 places!
+
 [Link Convert](https://rot13.com/)
 
 ---
